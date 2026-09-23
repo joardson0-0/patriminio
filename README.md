@@ -1,4 +1,4 @@
-Claro. Abaixo está o conteúdo em **Markdown puro**, pronto para salvar como `README.md`:
+
 
 ````
 # API de Gerenciamento de Patrimônio
